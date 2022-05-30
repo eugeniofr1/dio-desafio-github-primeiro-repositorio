@@ -16,5 +16,6 @@ git status - mostra o status do arquivo. Se tem alguma informação faltando com
 
 
 
-$ git commit - m "Comentário" - adiciona ao repositório os arquivos e diretórios com um comentário
+git commit - m "Comentário" - inclue um comentário, importante colocar
 
+ git push origin main - vai fazer os commits e enviar pro repositório
