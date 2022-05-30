@@ -1,0 +1,20 @@
+dir - Mostra os diretórios. Por padrão começa em C:\Users\eugen
+cls - limpa a tela
+cd / - Volta pra tela C:\
+cd "nome da pasta" entra no diretório, mas apenas se estiver num diretório anterior a mesma
+cd .. - volta pro diretório anterior
+tab - autocompletar, vai completar o nome dos diretórios
+mkdir - cria uma pasta no diretório em que estiver 
+echo hello > hello.txt - cria um arquivo de texto com nome "hello" e o mesmo nome escrito
+del "nome da pasta" - exclui todos os arquivos nesse diretório
+del "nome do arquivo"- exclui apenas o arquivo
+rmdir "nome da pasta" /S /Q - exclui o diretório com os arquivos
+
+git add . - adiciona todos os arquivos no git, mas não envia pro repositório
+
+git status - mostra o status do arquivo. Se tem alguma informação faltando commit...
+
+
+
+$ git commit - m "Comentário" - adiciona ao repositório os arquivos e diretórios com um comentário
+
