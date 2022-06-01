@@ -19,3 +19,9 @@ git status - mostra o status do arquivo. Se tem alguma informação faltando com
 git commit - m "Comentário" - inclue um comentário, importante colocar
 
  git push origin main - vai fazer os commits e enviar pro repositório
+
+
+
+/s: Excluir os arquivos e as subpastas da pasta que você especificou. Se você não colocá-la e a pasta que você quer excluir não estiver vazia, você será impedida de excluir essa pasta.
+
+/q: Realiza a exclusão de maneira silenciosa (não pede confirmação para excluir os arquivos). Só é possível usar essa flag junto com a flag /s
